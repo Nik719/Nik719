@@ -15,7 +15,7 @@ As a second-year MCA student, I’m currently diving into the world of DevOps, e
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nik719&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
