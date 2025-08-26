@@ -11,12 +11,12 @@
 
 ### 🔭 Currently Working On  
 - AI Engineering (LLM + RAG Integrations)  
-- Full-Stack Development (MERN & Spring Boot)  
+- Full-Stack Development (MERN)  
 - Product Development & Management  
 
 ### 💬 Ask Me About  
 - Data Structures & Algorithms (DSA)  
-- Web Development (React, Node.js, Spring Boot)  
+- Web Development (React, Node.js)  
 - DevOps & Cloud Basics  
 - AI & ML Applications  
 
