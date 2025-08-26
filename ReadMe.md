@@ -2,7 +2,7 @@
 
 💻 A Passionate **Software Developer & AI Enthusiast** from India
 
-<img src="https://raw.githubusercontent.com/Nik719/Nik719/refs/heads/main/Hand%20Wave.gif" height="500" width="1000">
+<img src="https://raw.githubusercontent.com/Nik719/Nik719/refs/heads/main/Hand%20Wave.gif" height="400" width="800">
 
 🌟 If you liked my contributions: [Nominate Me for GitHub Stars ⭐](https://stars.github.com/)  
 
