@@ -6,6 +6,7 @@
 
 🌟 If you liked my contributions: [Nominate Me for GitHub Stars ⭐](https://stars.github.com/)  
 
+![Profile Views](https://komarev.com/ghpvc/?username=Nik719&label=Profile%20Views&color=0e75b6&style=flat)
 ---
 
 ### 🔭 Currently Working On  
