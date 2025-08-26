@@ -1,6 +1,8 @@
 # Hi 👋, I'm Nikhil  
 
-💻 A Passionate **Software Developer & AI Enthusiast** from India  
+💻 A Passionate **Software Developer & AI Enthusiast** from India
+
+<img src="https://raw.githubusercontent.com/Nik719/Nik719/refs/heads/main/Hand%20Wave.gif" width="100">
 
 🌟 If you liked my contributions: [Nominate Me for GitHub Stars ⭐](https://stars.github.com/)  
 
