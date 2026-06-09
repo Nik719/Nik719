@@ -70,15 +70,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Backend & Database**
 
@@ -92,7 +89,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 
 **DevOps & Cloud**
 
@@ -115,8 +111,7 @@
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  🤖  AI Engineering     →  LLM Pipelines + RAG Systems          │
-│  🌐  Full-Stack Apps    →  MERN + Next.js Production Apps       │
-│  📦  Products           →  0 → 1 Product Development            │
+│  🌐  Full-Stack Apps    →  MERN Production Apps       │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -129,14 +124,6 @@
 ## 🚀 &nbsp;Featured Projects
 
 <div align="center">
-
-| Project | Description | Stack | Link |
-|---------|-------------|-------|------|
-| **🤖 AI RAG System** | Retrieval-Augmented Generation pipeline for intelligent document Q&A | Python · LangChain · Pinecone · OpenAI | [View →](https://github.com/Nik719) |
-| **🌐 MERN App** | Full-stack web application with auth, REST APIs, and dashboard | MongoDB · Express · React · Node | [View →](https://github.com/Nik719) |
-| **📊 DSA Solutions** | 500+ solved problems with optimized approaches & explanations | C++ · JavaScript | [View →](https://github.com/Nik719) |
-
-> 📌 **Pin your best repos below** — recruiters check pinned repositories first!
 
 </div>
 
@@ -187,7 +174,7 @@
 | Domain | Expertise |
 |--------|-----------|
 | 🤖 **AI / ML** | LLM Integration, RAG Pipelines, Prompt Engineering, Embeddings |
-| 🌐 **Web Dev** | React, Next.js, Node.js, REST APIs, Authentication |
+| 🌐 **Web Dev** | React, Node.js, REST APIs, Authentication |
 | 🗄️ **Databases** | MongoDB, PostgreSQL, Vector DBs (Pinecone, Chroma) |
 | 🔢 **DSA** | Data Structures, Algorithms, System Design |
 | ☁️ **DevOps** | Docker, AWS Basics, CI/CD, Linux |
