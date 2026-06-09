@@ -2,7 +2,7 @@
 <!--                        HEADER BANNER                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:C084FC&height=220&section=header&text=Nikhil%20Saha&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20%7C%20AI%20Engineer%20%7C%20Builder&descAlignY=60&descSize=20&descColor=E9D5FF" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:C084FC&height=220&section=header&text=Nikhil&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20%7C%20AI%20Engineer%20%7C%20Builder&descAlignY=60&descSize=20&descColor=E9D5FF" width="100%"/>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
