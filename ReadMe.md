@@ -334,23 +334,8 @@ Core: Data Structures & Algorithms · System Design · OOAD
 
 ## 📊 &nbsp;GitHub Analytics
 
-<!-- Row 1: Stats card + Top languages side by side -->
-<div align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Nik719&show_icons=true&count_private=true&theme=tokyonight&bg_color=0D001A&border_color=7C3AED&title_color=C084FC&icon_color=A855F7&text_color=E9D5FF&hide_border=false"
-    alt="Nikhil's GitHub stats"
-  />
-  &nbsp;&nbsp;
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nik719&layout=compact&theme=tokyonight&bg_color=0D001A&border_color=7C3AED&title_color=C084FC&text_color=E9D5FF&hide_border=false"
-    alt="Top languages"
-  />
-</div>
 
-
-<!-- Row 4: Contribution activity graph -->
+<!-- Row 1: Contribution activity graph -->
 <div align="center">
   <img
     width="95%"
