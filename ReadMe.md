@@ -349,22 +349,6 @@ Core: Data Structures & Algorithms · System Design · OOAD
   />
 </div>
 
-<!-- Row 2: Contribution streak -->
-<div align="center">
-  <img
-    width="70%"
-    src="https://streak-stats.demolab.com/?user=Nik719&theme=tokyonight&background=0D001A&border=7C3AED&ring=A855F7&fire=C084FC&currStreakLabel=E9D5FF&sideLabels=E9D5FF&currStreakNum=ffffff&sideNums=ffffff&dates=A855F7"
-    alt="GitHub contribution streak"
-  />
-</div>
-
-<!-- Row 3: Achievement trophies -->
-<div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Nik719&theme=darkhub&no-frame=true&no-bg=false&margin-w=6&column=7"
-    alt="GitHub achievement trophies"
-  />
-</div>
 
 <!-- Row 4: Contribution activity graph -->
 <div align="center">
