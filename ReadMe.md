@@ -56,12 +56,6 @@ Google Scholar powered research search platform.
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nik719"/>
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Nik719&no-frame=true&margin-w=15"/>
-</p>
-
 ## 🤝 Connect
 
 - LinkedIn: https://www.linkedin.com/in/nikhil061202/
