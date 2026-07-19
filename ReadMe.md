@@ -53,11 +53,6 @@ Google Scholar powered research search platform.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nik719&show_icons=true&hide_border=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nik719&layout=compact&hide_border=true"/>
-</p>
-
-<p align="center">
 <img width="60%" src="https://streak-stats.demolab.com?user=Nik719&hide_border=true"/>
 </p>
 
